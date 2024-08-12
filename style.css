@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Kalnia+Glaze:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Gloock&family=Kalnia+Glaze:wght@100..700&display=swap');
 
 * {
     margin: 0;
@@ -6,11 +6,11 @@
 }
 
 body {
-    font-family: "Kalnia Glaze", serif;
+    font-family: "Gloock", serif;
 }
 
 .cabecalho {
-    background-color: rgb(4, 43, 34);
+    background-color: rgb(2, 19, 15);
     color: aqua;
     display: flex;
     justify-content: space-around;
@@ -80,5 +80,7 @@ body {
 }
 
 .rodape {
-    
+    background-color: rgb(7, 132, 90);
+    color: white;
+    text-align: center;
 }

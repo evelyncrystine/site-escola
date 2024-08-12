@@ -5,8 +5,12 @@
     padding: 0;
 }
 
+body {
+    font-family: "Kalnia Glaze", serif;
+}
+
 .cabecalho {
-    background-color: rgb(43, 4, 30);
+    background-color: rgb(4, 43, 34);
     color: aqua;
     display: flex;
     justify-content: space-around;
